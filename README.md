@@ -1,4 +1,5 @@
 ## Ocean Waves
+![Ocean Waves logo](./Logo/logo_redimensionned.png)
 Package Python permettant la génération de surface d'océan utilisant des méthodes state-of-the-art de génération des vagues. 
 
 ## Installation
