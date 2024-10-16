@@ -13,3 +13,6 @@ def swop(thetas:np.array, omega:float, U:float, g:float=9.81) :
     D = (1/np.pi)*(1 + p*np.cos(2*thetas) + q*np.cos(4*thetas))
     
     return D
+
+def eckv_spreading_function() : 
+    return 0
